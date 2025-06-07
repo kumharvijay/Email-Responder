@@ -1,7 +1,5 @@
 # app.py
-!pip install textblob
-!pip install pandas
-!pip install nltk
+
 
 import streamlit as st
 from textblob import TextBlob
