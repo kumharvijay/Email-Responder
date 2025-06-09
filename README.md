@@ -8,24 +8,24 @@ Built with **Streamlit**, **TextBlob**, and **VADER Sentiment Analyzer**, this t
 
 ---
 
-## 🔍 Features
+## Features
 
-- ✅ Analyzes emails and detects sentiment (Positive / Neutral / Negative)
-- 🧠 Generates polite and appropriate auto-responses based on sentiment
-- ⚡ Built using Python and Streamlit for quick deployment and easy use
-- 🌐 Deployed on Streamlit Cloud for public access
+- Analyzes emails and detects sentiment (Positive / Neutral / Negative)
+- Generates polite and appropriate auto-responses based on sentiment
+- Built using Python and Streamlit for quick deployment and easy use
+- Deployed on Streamlit Cloud for public access
 
 ---
 
-## 🚀 Live Demo
+## Live Demo
 
-🔗 [Click here to try the app](https://YOUR-STREAMLIT-APP-LINK-HERE)
+🔗 [Click here to try the app](https://email-responder-j2fs2jspwdvyxehjleklm8.streamlit.app/)
 
 > Replace with your Streamlit deployment link once hosted.
 
 ---
 
-## 🛠️ How It Works
+## 🛠How It Works
 
 1. Enter an email message in the input box.
 2. Click **Analyze**.
@@ -36,7 +36,7 @@ Built with **Streamlit**, **TextBlob**, and **VADER Sentiment Analyzer**, this t
 
 ---
 
-## 🧑‍💻 Tech Stack
+## Tech Stack
 
 - **Python 3.9+**
 - **Streamlit** – UI framework
