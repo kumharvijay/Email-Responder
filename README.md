@@ -21,8 +21,6 @@ Built with **Streamlit**, **TextBlob**, and **VADER Sentiment Analyzer**, this t
 
 🔗 [Click here to try the app](https://email-responder-j2fs2jspwdvyxehjleklm8.streamlit.app/)
 
-> Replace with your Streamlit deployment link once hosted.
-
 ---
 
 ## 🛠How It Works
